@@ -1,21 +1,13 @@
 "Read Details","Lesa smáatriði",module,Magento_AdminNotification
-"Please correct the data sent.","Vinsamlegast leiðréttið það sem er sent inn.",module,Magento_AdvancedPricingImportExport
 "FTP Login","FTP Innskráning",module,Magento_Backup
-"Product was not registered","Varan er ekki skráð",module,Magento_Catalog
 "Terms and Conditions",Skilmálar,module,Magento_CheckoutAgreements
 "Shopping Cart",Karfa,module,Magento_Checkout
 "Clear Shopping Cart","Tæma körfu",module,Magento_Checkout
-"Sign Out",Útskráning,module,Magento_Customer
+Login,Innskráning,module,Magento_Customer
 "Back to Shopping Cart","Tilbaka til körfu",module,Magento_Multishipping
 Help,Hjálp,module,Magento_Paypal
 "Shopping Cart",Karfa,module,Magento_Reports
 "Shopping Cart",Karfa,module,Magento_Sales
-"Search Term",Leitarorð,module,Magento_Search
-"Search Terms",Leitarorð,module,Magento_Search
-Search,Leita,module,Magento_Search
-"New Search","Ný leit",module,Magento_Search
-"Password Help","Passorð hjálp",module,Magento_User
-Login,Innskráning,module,Magento_Checkout
 "Login Options",Innskráningsmöguleikar,module,Magento_Customer
 Login,Innskráning,module,Magento_Paypal
 "Last login","Siðasta innskráning",module,Magento_User
