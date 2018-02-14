@@ -6,6 +6,7 @@
 "Clear Shopping Cart","Tæma körfu",module,Magento_Checkout
 "Sign Out",Útskráning,module,Magento_Customer
 Login,Innskráning,module,Magento_Customer
+Country,Land,module,Magento_Email
 "Back to Shopping Cart","Tilbaka til körfu",module,Magento_Multishipping
 Help,Hjálp,module,Magento_Paypal
 "Shopping Cart",Karfa,module,Magento_Reports
