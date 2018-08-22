@@ -1,12 +1,10 @@
 "Read Details","Lesa smáatriði",module,Magento_AdminNotification
 "Please correct the data sent.","Vinsamlegast leiðréttið það sem er sent inn.",module,Magento_AdvancedPricingImportExport
 "FTP Login","FTP Innskráning",module,Magento_Backup
-"Product was not registered","Varan er ekki skráð",module,Magento_Catalog
 "Terms and Conditions",Skilmálar,module,Magento_CheckoutAgreements
 "Shopping Cart",Karfa,module,Magento_Checkout
 "Clear Shopping Cart","Tæma körfu",module,Magento_Checkout
 "Sign Out",Útskráning,module,Magento_Customer
-Country,Land,module,Magento_Email
 "Back to Shopping Cart","Tilbaka til körfu",module,Magento_Multishipping
 Help,Hjálp,module,Magento_Paypal
 "Shopping Cart",Karfa,module,Magento_Reports
