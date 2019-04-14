@@ -1,4 +1,25 @@
 "Read Details","Lesa smáatriði",module,Magento_AdminNotification
+"Mark as Read","Merkja sem lesið",module,Magento_AdminNotification
+"Are you sure?","Ertu viss?",module,Magento_AdminNotification
+Remove,Fjarlægja,module,Magento_AdminNotification
+"Messages Inbox","Innhólf skilaboða",module,Magento_AdminNotification
+"You have %1 new system messages","Þú átt %1 ný kerfisskilaboð",module,Magento_AdminNotification
+"You have %1 new system message","Þú átt %1 ný kerfisskilaboð",module,Magento_AdminNotification
+close,loka,module,Magento_AdminNotification
+Notifications,Tilkynningar,module,Magento_AdminNotification
+"Please select messages.","Vinsamlega veldu skilaboð.",module,Magento_AdminNotification
+"1 Hour","1 klst.",module,Magento_AdminNotification
+"2 Hours","2 klst.",module,Magento_AdminNotification
+"6 Hours","6 klst.",module,Magento_AdminNotification
+"12 Hours","12 klst.",module,Magento_AdminNotification
+"24 Hours","24 klst.",module,Magento_AdminNotification
+critical,Alvarlegt,module,Magento_AdminNotification
+major,meiriháttar,module,Magento_AdminNotification
+minor,minniháttar,module,Magento_AdminNotification
+notice,tilkynning,module,Magento_AdminNotification
+"Wrong message type","Röng gerð skilaboða",module,Magento_AdminNotification
+"Wrong notification ID specified.","Rangt númer tilkynningar.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} er ekki heppilegt til notkunar nema við prófanir. Við mæltum með að breyta þessari stillingu á <a href=""%1"">stillingasíðu</a>.",module,Magento_AdminNotification
 "Please correct the data sent.","Vinsamlegast leiðréttið það sem er sent inn.",module,Magento_AdvancedPricingImportExport
 "FTP Login","FTP Innskráning",module,Magento_Backup
 "Product was not registered","Varan er ekki skráð",module,Magento_Catalog
