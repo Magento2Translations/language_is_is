@@ -1,0 +1,43 @@
+"Read Details","Lesa smáatriði",module,Magento_AdminNotification
+"Mark as Read","Merkja sem lesið",module,Magento_AdminNotification
+"Are you sure?","Ertu viss?",module,Magento_AdminNotification
+Remove,Fjarlægja,module,Magento_AdminNotification
+"Messages Inbox","Innhólf skilaboða",module,Magento_AdminNotification
+"You have %1 new system messages","Þú átt %1 ný kerfisskilaboð",module,Magento_AdminNotification
+"You have %1 new system message","Þú átt %1 ný kerfisskilaboð",module,Magento_AdminNotification
+close,loka,module,Magento_AdminNotification
+Notifications,Tilkynningar,module,Magento_AdminNotification
+"Please select messages.","Vinsamlega veldu skilaboð.",module,Magento_AdminNotification
+"1 Hour","1 klst.",module,Magento_AdminNotification
+"2 Hours","2 klst.",module,Magento_AdminNotification
+"6 Hours","6 klst.",module,Magento_AdminNotification
+"12 Hours","12 klst.",module,Magento_AdminNotification
+"24 Hours","24 klst.",module,Magento_AdminNotification
+critical,Alvarlegt,module,Magento_AdminNotification
+major,meiriháttar,module,Magento_AdminNotification
+minor,minniháttar,module,Magento_AdminNotification
+notice,tilkynning,module,Magento_AdminNotification
+"Wrong message type","Röng gerð skilaboða",module,Magento_AdminNotification
+"Wrong notification ID specified.","Rangt númer tilkynningar.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} er ekki heppilegt til notkunar nema við prófanir. Við mæltum með að breyta þessari stillingu á <a href=""%1"">stillingasíðu</a>.",module,Magento_AdminNotification
+"Please correct the data sent.","Vinsamlegast leiðréttið það sem er sent inn.",module,Magento_AdvancedPricingImportExport
+"Related Search Terms","Skyld leitunarorð",module,Magento_AdvancedSearch
+"FTP Login","FTP Innskráning",module,Magento_Backup
+"Terms and Conditions",Skilmálar,module,Magento_CheckoutAgreements
+"Shopping Cart",Karfa,module,Magento_Checkout
+"Clear Shopping Cart","Tæma körfu",module,Magento_Checkout
+"Sign Out",Útskráning,module,Magento_Customer
+"Back to Shopping Cart","Tilbaka til körfu",module,Magento_Multishipping
+Help,Hjálp,module,Magento_Paypal
+"Shopping Cart",Karfa,module,Magento_Reports
+"Shopping Cart",Karfa,module,Magento_Sales
+"Search Term",Leitarorð,module,Magento_Search
+"Search Terms",Leitarorð,module,Magento_Search
+Search,Leita,module,Magento_Search
+"New Search","Ný leit",module,Magento_Search
+"Password Help","Passorð hjálp",module,Magento_User
+Login,Innskráning,module,Magento_Checkout
+"Search Query",Leitarorð,module,Magento_AdvancedSearch
+"Login Options",Innskráningsmöguleikar,module,Magento_Customer
+Login,Innskráning,module,Magento_Paypal
+"Last login","Siðasta innskráning",module,Magento_User
